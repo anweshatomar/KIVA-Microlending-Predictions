@@ -18,7 +18,7 @@ This information can inform both lenders and borrowers in the Kiva crowdfunding 
 ## Exploratory Data Analysis:
 !(D:/GWU/MACHINE LEARNING 1/report/images/1.png)
 Format: !(url)
-
+![Image of Yaktocat](D:/GWU/MACHINE LEARNING 1/report/images/1.png)
 
 ## Pre-Process:
 
