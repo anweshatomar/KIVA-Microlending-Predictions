@@ -15,7 +15,7 @@ In this project, we built models to predict the loan amount (regression) and the
 This information can inform both lenders and borrowers in the Kiva crowdfunding process. 
 
 
-## Pre-Process:
+## Pre-Processing:
 
 The multidimensionality poverty index CSV file was merged with the loan dataset, Then the activities and counties were grouped together in order to reduce the dimensionality. Feature engineering was performed to obtain the gender count. Since all the missing values were under 20 per cent we then dropped all the missing values. 
 
