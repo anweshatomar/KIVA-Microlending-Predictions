@@ -1,10 +1,9 @@
 # Kiva-Loan-Dataset
+Kiva.org is an online crowdfunding platform to extend financial services to poor and financially excluded people around the world, the dataset was downloaded from Kaggle for the past two years.
+The aim is to apply machine learning methods to gain insight into how Kiva determines the amount (USD) and repayment interval type (monthly, bullet, or irregular) of each loan. 
 
 ## BREIF DESCRIPTION:
 
-Kiva.org is an online crowdfunding platform to extend financial services to poor and financially excluded people around the world, the dataset was downloaded from Kaggle for the past two years.
-
-The aim is to apply machine learning methods to gain insight into how Kiva determines the amount (USD) and repayment interval type (monthly, bullet, or irregular) of each loan. 
 
 Kiva provides features such as the number of lenders, borrower's gender(s), loan use activity, and more. 
 
